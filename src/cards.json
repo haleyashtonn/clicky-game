@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "name": "Lady Gaga",
+    "image": "https://www.billboard.com/files/styles/article_main_image/public/media/lady-gaga-2018-smile-grammy-billboard-a-1548.jpg",
+    "count": 0
+  },
+  {
+    "id": 2,
+    "name": "Kim Kardashian",
+    "image": "https://www.diariogol.com/uploads/s1/61/62/67/4/kim-kardashian_15_970x597.jpeg",
+    "count": 0
+  },
+  {
+    "id": 3,
+    "name": "Kylie Jenner",
+    "image": "https://www.unilad.co.uk/wp-content/uploads/2018/08/kylie-jenner-business-web.jpg",
+    "count": 0
+  },
+  {
+    "id": 4,
+    "name": "Ellen Degeneres",
+    "image": "https://www.tubefilter.com/wp-content/uploads/2018/04/ellen-degeneres.jpg",
+    "count": 0
+  },
+  {
+    "id": 5,
+    "name": "Cardi B",
+    "image": "https://www.rollingstone.com/wp-content/uploads/2017/10/cardi-b-rolling-stone-interview-cover_.jpg?crop=900:600&width=300",
+    "count": 0
+  },
+  {
+    "id": 6,
+    "name": "Beyonce",
+    "image": "https://cdn.cnn.com/cnnnext/dam/assets/180415033653-01-beyonce-coachella-0415-exlarge-169.jpg",
+    "count": 0
+  },
+  {
+    "id": 7,
+    "name": "Adele",
+    "image": "http://cdn.theeverygirl.com/wp-content/uploads/2015/11/Adele.jpg",
+    "count": 0
+  },
+  {
+    "id": 8,
+    "name": "Taylor Swift",
+    "image": "https://www.billboard.com/files/media/taylor-swift-dark-eyes-2015-billboard-1548.jpg",
+    "count": 0
+  },
+  {
+    "id": 9,
+    "name": "Ariana Grande",
+    "image": "https://www.biography.com/.image/ar_1:1%2Cc_fill%2Ccs_srgb%2Cg_face%2Cq_auto:good%2Cw_300/MTQ3MzM3MTcxNjA5NTkzNjQ3/ariana_grande_photo_jon_kopaloff_getty_images_465687098.jpg",
+    "count": 0
+  },
+  {
+    "id": 10,
+    "name": "Rihanna",
+    "image": "https://studybreaks.com/wp-content/uploads/2018/09/851083118.jpg.0.jpg",
+    "count": 0
+  },
+  {
+    "id": 11,
+    "name": "Katy Perry",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOo3PJEmPRrniA9CBODXI9yW1fqQp4cV5tnkKEYIxVQ8KFkdj7",
+    "count": 0
+  },
+  {
+    "id": 12,
+    "name": "Nicki Minaj",
+    "image": "https://consequenceofsound.files.wordpress.com/2018/08/nicki-minaj-harriet-tubman.png?w=807",
+    "count": 0
+  }
+]
